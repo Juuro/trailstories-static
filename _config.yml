@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   MTBs, Trails, Cross Country, cycling stuff in general ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.trailstories.net" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon_username: /@juuro@mstdn.social
+mastodon: 
+  - username: Juuro
+    instance: mstdn.social
 github_username:  Juuro
+youtube_username: Juuro
 
 # Build settings
 # theme: minima
