@@ -3,3 +3,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# dotenv environment variables file
+.env
+.env.test
+.DS_Store
