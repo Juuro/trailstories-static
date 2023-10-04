@@ -1,8 +1,34 @@
 ---
 layout: default
 ---
+{%- if site.posts.size > 0 -%}
+{%- for post in site.posts -%}
+<article>
+  <div class="text">
+    <h2>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h2>
+    <div class="meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="date">{{ post.date | date: date_format }}</span>
+    </div>
+    {%- if site.show_excerpts -%}
+    <main>{{ post.excerpt }}</main>
+    {%- endif -%}
+    <!-- {{ post.categories }} -->
+    <div class="tags">
+      {%- for tag in post.tags -%}
+      <a href="">{{ tag }}</a>
+      {%- endfor -%} 
+    </div> 
+  </div>
+</article>
+{%- endfor -%}
+{%- endif -%}
 
-<div class="home">
+<!-- <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -13,6 +39,14 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
+
+      <article>
+        <div class="text">
+          Lorem ipsum dolor sit amet, bitch!
+        </div>
+      </article>
+
+
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -31,4 +65,4 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
-</div>
+</div> -->

@@ -1,0 +1,17 @@
+.tags a {
+  font-size: .6rem;
+  background-color: var(--text-color);
+  opacity: .4;
+  padding: .1em .4em;
+  color: var(--pastel-red);
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: opacity .2s;
+  margin-right: .5em;
+  border-radius: .2em;
+  letter-spacing: .05em;
+
+  &:hover {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,37 @@
+header {
+  max-width: var(--max-width);
+  margin: 0 auto;
+
+  .banner {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .conifers {
+    transform: rotate(180deg);
+    max-width: 50vw;
+    left: -90px;
+    position: relative;
+  }
+
+  nav {
+    font-weight: bold;
+    max-width: var(--max-width);
+    text-align: right;
+  }
+
+  nav a {
+    border-radius: 0.2em;
+    color: var(--text-color);
+    letter-spacing: 0.05em;
+    margin-right: 0.5em;
+    padding: 0.1em 0.4em;
+    text-decoration: none;
+    transition: background-color 0.2s;
+  }
+
+  nav a:hover {
+    background-color: #f4f3ee70;
+  }
+}

@@ -1,0 +1,72 @@
+article {
+  background-color: var(--pastel-red);
+  color: var(--text-color);
+  margin: 3em auto;
+  width: 100%;
+  transition: box-shadow 0.2s;
+  transform: skew(0, -3deg);
+
+  &.custom-bike-post {
+    box-shadow: -1em 1em var(--bike-post-color);
+  }
+
+  &:hover {
+    box-shadow: 0 0px 19px 0 var(--wine-red);
+  }
+
+  img {
+    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+  }
+
+  .text {
+    padding: 1em 1.5em;
+  }
+
+  h2 {
+    // background-color: var(--pastel-red);
+    // border: 1px solid var(--text-color);
+    color: var(--text-color);
+    font-size: 2em;
+    margin: 0 0 0;
+    // display: inline-block;
+    // padding: 0.2em;
+    // position: relative;
+    // top: -0.8em;
+    // text-shadow: 0 1px 1px darken($text-color, 70%), 1px 0 1px darken($text-color, 10%), 1px 2px 1px darken($text-color, 70%),
+    //   2px 1px 1px darken($text-color, 10%), 2px 3px 1px darken($text-color, 70%), 3px 2px 1px darken($text-color, 10%),
+    //   3px 4px 1px darken($text-color, 70%), 4px 3px 1px darken($text-color, 10%), 4px 5px 1px darken($text-color, 70%),
+    //   5px 4px 1px darken($text-color, 10%), 5px 6px 1px darken($text-color, 70%), 6px 5px 1px darken($text-color, 10%),
+    //   6px 7px 1px darken($text-color, 70%), 7px 6px 1px darken($text-color, 10%), 7px 8px 1px darken($text-color, 70%),
+    //   8px 7px 1px darken($text-color, 10%);
+    
+    a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.2s;
+
+      &:hover {
+        color: var(--text-color-hover);
+      }
+    }
+  }
+
+  .meta {
+    color: var(--wine-red);
+    font-size: 0.8em;
+    display: flex;
+  }
+
+  .meta span {
+    flex-grow: 1;
+  }
+
+  .meta span:last-child {
+    text-align: right;
+  }
+
+  main {
+    margin: 1em 0;
+  }
+}

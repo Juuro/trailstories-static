@@ -2,7 +2,7 @@
 layout: post
 title:  "My first Gravel Race"
 date:   2023-08-26
-categories:   race-report
+tags:   race-report gravel
 ---
 
 Today I raced my first Gravel race - The Houffa Gravel in Houffalize Belgium. And oh boy, Gravel is different than MTB - a race report.
