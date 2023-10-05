@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="tags-wrapper">
+  {{ content }} {% assign sortedTags = site.tags | sort %}
+
+  <div class="tags tag-cloud">
+    {% for tag in sortedTags %}
+    <a href="#{{tag[0]}}"
+      >{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;{{ tag[1] | size }}</a
+    >
+    {% endfor %}
+  </div>
+  {% for tag in sortedTags %}
+  <h2 class="tag" id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }}</h2>
+
+  {% for post in tag[1] %}
+
+  <article>
+    <div class="text">
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h2>
+      <div class="meta">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+        -%}
+        <span class="date">{{ post.date | date: date_format }}</span>
+      </div>
+      <div class="tags">
+        {%- for tag in post.tags -%}
+        <a href="">{{ tag }}</a>
+        {%- endfor -%}
+      </div>
+    </div>
+  </article>
+
+  {% endfor %} {% endfor %}
+</div>

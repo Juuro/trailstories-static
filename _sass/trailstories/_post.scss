@@ -1,3 +1,9 @@
+.post-wrapper {
+  h1 {
+    font-size: clamp(3rem, 8vw + 1rem, 4rem);
+  }
+}
+
 article {
   background-color: var(--pastel-red);
   color: var(--text-color);
@@ -40,7 +46,7 @@ article {
     //   5px 4px 1px darken($text-color, 10%), 5px 6px 1px darken($text-color, 70%), 6px 5px 1px darken($text-color, 10%),
     //   6px 7px 1px darken($text-color, 70%), 7px 6px 1px darken($text-color, 10%), 7px 8px 1px darken($text-color, 70%),
     //   8px 7px 1px darken($text-color, 10%);
-    
+
     a {
       color: inherit;
       text-decoration: none;

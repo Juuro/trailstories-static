@@ -1,17 +1,46 @@
-.tags a {
-  font-size: .6rem;
+%tag {
+  font-size: 0.6rem;
   background-color: var(--text-color);
-  opacity: .4;
-  padding: .1em .4em;
+  opacity: 0.4;
+  padding: 0.1em 0.4em;
   color: var(--pastel-red);
   text-decoration: none;
   text-transform: uppercase;
-  transition: opacity .2s;
-  margin-right: .5em;
-  border-radius: .2em;
-  letter-spacing: .05em;
+  transition: opacity 0.2s;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  border-radius: 0.2em;
+  letter-spacing: 0.05em;
 
   &:hover {
     opacity: 1;
+  }
+}
+
+.tags a {
+  @extend %tag;
+}
+
+.tags-wrapper {
+  h1 {
+    margin-bottom: 1em;
+  }
+
+  h2.tag {
+    @extend %tag;
+    font-size: 2rem;
+    opacity: 1;
+    color: var(--dark-turquoise);
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 5em;
+  }
+
+  .tag-cloud.tags {
+    a {
+      color: var(--dark-turquoise);
+      font-size: 1rem;
+      line-height: 2.2em;
+    }
   }
 }

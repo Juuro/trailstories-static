@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Tokyo 2020: Favourite women"
-date:   2021-07-26
-tags: article mtb
+title: "Tokyo 2020: Favourite women"
+date: 2021-07-26
+tags: pro cross-country race olympic-games
 ---
 
 ![XCO women 2021](/assets/xco-women-2021.jpg)
 
-After the mens race today, tomorrow we have the  olympic womens race on the agenda. Prepare yourself for a race with many favourites and fierce battles for the medals.
+After the mens race today, tomorrow we have the olympic womens race on the agenda. Prepare yourself for a race with many favourites and fierce battles for the medals.
 
 ### Jenny Rissvends
 

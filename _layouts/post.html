@@ -2,31 +2,34 @@
 layout: default
 ---
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="text">
-    <h2>
-      <a class="post-link" href="{{ page.url | relative_url }}">
-        {{ page.title | escape }}
-      </a>
-    </h2>
-    <div class="meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="date">{{ page.date | date: date_format }}</span>
-    </div>
-    {%- if site.show_excerpts -%}
-    <main>{{ page.content }}</main>
-    {%- endif -%}
-    <!-- {{ post.categories }} -->
-    <div class="tags">
-      {%- for tag in page.tags -%}
-      <a href="">{{ tag }}</a>
-      {%- endfor -%} 
-    </div>
+<div class="post-wrapper">
+  <h1>
+    <a class="post-link" href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
+    </a>
+  </h1>
 
-    {%- if site.disqus.shortname -%}
-      {%- include disqus_comments.html -%}
-    {%- endif -%}
+  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="text">
+      <div class="meta">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="date">{{ page.date | date: date_format }}</span>
+      </div>
+      {%- if site.show_excerpts -%}
+      <main>{{ page.content }}</main>
+      {%- endif -%}
+      <!-- {{ post.categories }} -->
+      <div class="tags">
+        {%- for tag in page.tags -%}
+        <a href="/tags/#{{ tag }}">{{ tag }}</a>
+        {%- endfor -%} 
+      </div>
 
-    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  </div>
-</article>
+      {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
+      {%- endif -%}
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    </div>
+  </article>
+</div>
