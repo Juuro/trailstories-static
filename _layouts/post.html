@@ -21,7 +21,7 @@ layout: default
       <!-- {{ post.categories }} -->
       <div class="tags">
         {%- for tag in page.tags -%}
-        <a href="/tags/#{{ tag }}">{{ tag }}</a>
+        <a href="/tags/#{{ tag }}">{{ tag | replace: "-", "&nbsp;" }}</a>
         {%- endfor -%} 
       </div>
 
