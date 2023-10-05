@@ -31,7 +31,7 @@ layout: default
       </div>
       <div class="tags">
         {%- for tag in post.tags -%}
-        <a href="">{{ tag | replace: "-", "&nbsp;" }}</a>
+        <a href="/tags/#{{ tag }}">{{ tag | replace: "-", "&nbsp;" }}</a>
         {%- endfor -%}
       </div>
     </div>
