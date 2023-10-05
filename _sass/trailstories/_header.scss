@@ -35,3 +35,26 @@ header {
     background-color: #f4f3ee70;
   }
 }
+
+@media (max-width: 900px) {
+  header {
+    .conifers {
+      left: -50px;
+      height: 150px;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    .conifers {
+      max-width: 70vw;
+      left: -10px;
+      height: 100px;
+    }
+
+    nav a {
+      display: block;
+    }
+  }
+}
