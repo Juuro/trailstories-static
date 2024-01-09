@@ -9,6 +9,7 @@ Information according to § 5 TMG
 Sebastian Engel  
 Teuremertalweg 2  
 70839 Gerlingen  
+Germany
 
 E-mail: [mail@trailstories.net](mailto:mail@trailstories.net)
 
@@ -17,6 +18,7 @@ Responsible for the content according to § 55 Abs. 2 RStV:
 Sebastian Engel  
 Teuremertalweg 2  
 70839 Gerlingen  
+Germany
 
 ### Disclaimer of liability:
 
