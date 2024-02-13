@@ -2,7 +2,7 @@
 layout: post
 title: "Tokyo 2020: Favourite men"
 date: 2021-07-25
-tags: pro cross-country race olympic-games
+tags: pro cross-country race olympic-games mtb
 ---
 
 ![XCO men 2021](/assets/xco-men-2021.jpg)

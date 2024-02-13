@@ -2,7 +2,7 @@
 layout: post
 title: "Tokyo 2020: Favourite women"
 date: 2021-07-26
-tags: pro cross-country race olympic-games
+tags: pro cross-country race olympic-games mtb
 ---
 
 ![XCO women 2021](/assets/xco-women-2021.jpg)
