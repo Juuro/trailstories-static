@@ -2,7 +2,7 @@
 layout: post
 title: "European XC Championships: Nino is back"
 date: 2020-10-17
-tags: pro race cross-country
+tags: pro race cross-country mtb
 ---
 
 ![Nino Schurter](/assets/nino-schurter-001.jpg)

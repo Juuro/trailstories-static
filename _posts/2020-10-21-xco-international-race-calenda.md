@@ -2,7 +2,7 @@
 layout: post
 title: "XCO international race calendar 2021"
 date: 2020-10-21
-tags: cross-country pro race
+tags: cross-country pro race mtb
 ---
 
 ![Jolanda Neff](/assets/jolanda-neff-001.jpg)

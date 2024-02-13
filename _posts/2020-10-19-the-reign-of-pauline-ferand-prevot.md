@@ -2,7 +2,7 @@
 layout: post
 title: "The reign of Pauline Ferrand-Prévôt"
 date: 2020-10-19
-tags: pro cross-country race olympic-games
+tags: pro cross-country race olympic-games mtb
 ---
 
 ![Pauline Ferrand-Prévôt](/assets/pauline-ferrand-prevot-001.jpg)

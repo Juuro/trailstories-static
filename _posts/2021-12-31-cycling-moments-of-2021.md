@@ -2,7 +2,7 @@
 layout: post
 title: "Cycling Moments of 2021"
 date: 2021-12-31
-tags: pro race cross-country road olympic-games track
+tags: pro race cross-country road olympic-games track mtb
 ---
 
 Let’s have a short retrospective on the biggest moments in cycling of 2021.

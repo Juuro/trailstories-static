@@ -2,14 +2,14 @@
 layout: post
 title: "XCO race calendar 2024"
 date: 2023-10-18
-tags: cross-country pro race
+tags: cross-country pro race mtb
 ---
 
 ![UCI MTB World Series](/assets/xco-calendar-2024.jpg)
 
 12 - 14 April **World Cup** Mairiporã, Brazil  
 19 - 21 April **World Cup** Araxá, Brazil  
-16 - 19 May **World Championships** Cairns, Australia   
+16 - 19 May **World Championships** Cairns, Australia  
 24 - 26 May **World Cup** Nové Město na Moravě, Czech  
 14 - 16 June **World Cup** Val di Sole, Italy  
 21 - 23 June **World Cup** Crans-Montana, Switzerland  

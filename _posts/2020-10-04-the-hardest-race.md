@@ -2,7 +2,7 @@
 layout: post
 title: "The hardest race"
 date: 2020-10-04
-tags: race
+tags: race mtb
 ---
 
 ![The penultimate rider crosses the finish line](/assets/mesa-parts-trail-hype.jpg)
