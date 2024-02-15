@@ -2,7 +2,7 @@
 layout: post
 title: "What I learned from the Bike Transalp"
 date: 2024-02-15
-tags: race, mtb
+tags: race mtb
 ---
 
 ![Bike Transalp 2023 start in Nauders, Austria](/assets/2024-01-22-what-i-learned-from-the-bike-transalp.jpg)

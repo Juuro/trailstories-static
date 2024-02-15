@@ -17,8 +17,14 @@
   }
 }
 
-.tags a {
-  @extend %tag;
+.tags {
+  line-height: 0.8em;
+
+  a {
+    @extend %tag;
+    display: inline-block;
+    margin-bottom: 0;
+  }
 }
 
 .tags-wrapper {

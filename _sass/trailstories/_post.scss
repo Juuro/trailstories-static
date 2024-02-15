@@ -72,7 +72,23 @@ article {
     text-align: right;
   }
 
-  main {
+  main,
+  .post-excerpt {
     margin: 1em 0;
+  }
+
+  .read-on {
+    color: var(--text-color);
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+    text-decoration: none;
+    transition: color 0.2s;
+
+    &:hover {
+      color: var(--text-color-hover);
+    }
   }
 }

@@ -1,10 +1,12 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
 $text-color: #f4f3ee;
 
 :root {
   /* Color palette: https://coolors.co/1c4442-78f9a0-ff5e5b-cd4c4a-f4f3ee-1e91d6 */
   --dark-turquoise: #1c4442;
   --light-green: #78f9a0;
-  --pastel-red: #ff5e5b;
+  --pastel-red: #ed5754;
   /* #dd6c5a */
   --wine-red: #cd4c4a;
   /* #684551 */
@@ -66,7 +68,7 @@ h3 {
 }
 
 a {
-  color: #78f9a0;
+  color: var(--light-green);
   transition: color 0.2s;
 
   &:hover {
