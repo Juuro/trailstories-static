@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My fueling startegy is shit"
+title: "My fueling strategy is shit"
 date: 2024-02-17
 tags: race
 ---
