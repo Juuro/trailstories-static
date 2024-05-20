@@ -1,9 +1,9 @@
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$spacing-unit:     30px !default;
-$base-font-size:   16px !default;
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$spacing-unit: 30px !default;
+$base-font-size: 16px !default;
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
 
 %clearfix:after {
   content: "";
@@ -28,7 +28,7 @@ $on-laptop:        800px !default;
 
 .footer-heading {
   @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc(#{$spacing-unit} / 2);
 }
 
 .contact-list,
@@ -40,14 +40,14 @@ $on-laptop:        800px !default;
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: calc(-#{$spacing-unit} / 2);
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-bottom: calc(#{$spacing-unit} / 2);
+  padding-left: calc(#{$spacing-unit} / 2);
 }
 
 .footer-col-1 {
