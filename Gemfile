@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.3"
+gem "jekyll", "~> 4.4"
 # Required to build native extensions (e.g. google-protobuf) when no
 # precompiled gem matches the build platform's Ruby version.
 gem "rake"
@@ -19,7 +19,7 @@ gem "rake"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-seo-tag", "~> 2.6"
+  gem "jekyll-seo-tag", "~> 2.9"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
