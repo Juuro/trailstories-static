@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alb-Gold Trophy 2026"
-date: 2026-09-28
+date: 2026-09-27
 tags: race mtb
 ---
 
