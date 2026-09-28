@@ -5,6 +5,8 @@ date: 2026-09-27
 tags: race mtb
 ---
 
+![Alb-Gold Trophy 2026](/assets/2026-09-27-alb-gold-trophy-2026.jpg)
+
 Last Saturday I raced the Alb-Gold Trophy, the 60 km / 700 hm loop on the Swabian Alb, right on my doorstep in Trochtelfingen. Two laps, mostly double track, some trail and grass sections, one proper climb per lap. Going in I was actually a bit worried. Since early August my longest ride had been under 30 km, most weeks only 40-60 km total, and a two week trip to Malaysia in between that was more hiking than riding. My own prediction, done from Strava data a couple of days before, put me somewhere around 2:55-3:10 on a good day, with a real chance of fading hard in the final 15 km.
 
 ### The track
