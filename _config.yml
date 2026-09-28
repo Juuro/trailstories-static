@@ -30,6 +30,8 @@ mastodon:
     instance: mstdn.social
 github_username:  Juuro
 youtube_username: Juuro
+posthog_key: "phc_nB9ezrnEV3LTpDhGq8PBhLMQRQYm4pU5UPQ3QywVn4QM"
+posthog_host: "https://eu.i.posthog.com" # or https://us.i.posthog.com, check your PostHog project settings
 
 # Build settings
 # theme: minima
