@@ -7,7 +7,7 @@ tags: race mtb stage-race
 
 ![Rally di Romagna start arch, Salsomaggiore Terme](/assets/2026-06-02-rally-di-romagna-2026.jpg)
 
-Five stages, Salsomaggiore Terme, Emilia Romagna. My second multi-day mountainbike stage race after the [Bike Transalp]({% post_url 2024-02-15-what-i-learned-from-the-bike-transalp %}) a couple of years back - and this time it ended early. I only made it through three of the five stages.
+Five stages, Salsomaggiore Terme, Emilia Romagna. My third multi-day mountainbike stage race, after the [Bike Transalp]({% post_url 2024-02-15-what-i-learned-from-the-bike-transalp %}) a couple of years back and the Sudety MTB Challenge in Poland last year - and this time it ended early. I only made it through three of the five stages.
 
 ![My bike, ready before the race](/assets/2026-06-02-rally-di-romagna-2026-bike.jpg)
 
