@@ -5,11 +5,17 @@ date: 2024-05-20
 tags: race gravel
 ---
 
+![Start/finish arch, Wörthersee Gravel Race](/assets/2024-05-20-woerthersee-gravel-race.jpg)
+
 Last month was my second gravel race. Like [Houffa Gravel]({% post_url 2023-08-26-my-first-gravel-race %}) last year it also was a race of the UCI gravel world series. This time at the Wörthersee in Austria. I went there because a friend of mine who lives in Austria asked me if I would acompany her. Looking at the track it again did not exactly fitting for my strengths. One lap was 50 k long and had one 150 m climb in the first quarter. The rest was more or less flat. I didn't know before the race how technical it would be. Three rounds had to be raced.
+
+![Bike on the dock at Lake Wörthersee](/assets/2024-05-20-woerthersee-gravel-race-dock.jpg)
 
 ### The track
 
 In the first lap I found out that the track is basically a roadbike track. At least from a mountainbikers perspective. It was mostly asphalt or pretty smooth gravel. Only the long climb was a bit bumpy and partly wet. Turns out I'm not only bad at pushing up short climb after short climb, I'm also bad at keeping backwheels. 🙃 I somehow intuitively stop two meters before I'm actuall there because I think I'm already there. I suppose it is because in mountainbike races it most of the time makes sense to keep a bit of distance because there's not much wind and the track bumpy.
+
+![Riders lining up at the start](/assets/2024-05-20-woerthersee-gravel-race-start.jpg)
 
 ### First Lap
 
