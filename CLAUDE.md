@@ -43,3 +43,7 @@ tags: race mtb
 ```
 
 Cross-link older posts with `{% post_url YYYY-MM-DD-filename %}`.
+
+## Spec-kit
+
+Non-trivial site changes (redesigns, new page types, integrations) go through spec-kit: `/speckit-specify` → `/speckit-plan` → `/speckit-tasks` → `/speckit-implement` (skills in `.claude/skills/speckit-*`, project principles in `.specify/memory/constitution.md`). Routine post writing and small fixes skip it.
