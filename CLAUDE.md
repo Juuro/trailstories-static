@@ -44,6 +44,10 @@ tags: race mtb
 
 Cross-link older posts with `{% post_url YYYY-MM-DD-filename %}`.
 
+## Commit messages
+
+ALWAYS use [Conventional Commits](https://www.conventionalcommits.org/) format: `type(scope): lower-case summary` (e.g. `feat: add tag archive page`, `docs: add 2027 race calendar post`, `chore: bump gems`). Applies to every commit, amend, and squash message; PR titles follow the same format.
+
 ## Spec-kit
 
 Non-trivial site changes (redesigns, new page types, integrations) go through spec-kit: `/speckit-specify` → `/speckit-plan` → `/speckit-tasks` → `/speckit-implement` (skills in `.claude/skills/speckit-*`, project principles in `.specify/memory/constitution.md`). Routine post writing and small fixes skip it.
