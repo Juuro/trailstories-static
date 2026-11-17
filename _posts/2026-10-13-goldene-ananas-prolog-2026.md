@@ -44,7 +44,22 @@ Once I got this right I was able to string the whole section together and ride i
 
 Strava says 12 laps, 48:42 moving time, 9 km and 251 hm. Average heart rate was 171 bpm (max 185) with an average power of 134 W. My best 5 minutes were at 174 W, the best 20 minutes at 142 W. Not impressive numbers on paper, but cyclocross is not really about watts. Power is all over the place with sand, mud and dismounts.
 
-What I like more is the consistency. Ten of my twelve laps on the timed lap segment were between 3:21 and 3:42. My fastest lap was 2:43.
+What I like more is the consistency. Ten of my twelve laps on the timed lap segment were between 3:21 and 3:42. My fastest lap was 2:43. Here are all twelve, in the order Strava lists them:
+
+| Lap | Time | Avg power | Avg heart rate |
+|---|---|---|---|
+| 1 | 2:48 | 142 W | 165 bpm |
+| 2 | 3:42 | 125 W | 172 bpm |
+| 3 | 3:21 | 148 W | 175 bpm |
+| 4 | 2:43 | 82 W | 168 bpm |
+| 5 | 3:30 | 120 W | 173 bpm |
+| 6 | 3:27 | 120 W | 174 bpm |
+| 7 | 3:25 | 123 W | 171 bpm |
+| 8 | 3:30 | 106 W | 169 bpm |
+| 9 | 3:22 | 127 W | 173 bpm |
+| 10 | 3:27 | 138 W | 172 bpm |
+| 11 | 3:29 | 129 W | 170 bpm |
+| 12 | 3:26 | 137 W | 171 bpm |
 
 Also interesting: an average heart rate of 171 means that the "rest on the rest of the course" part wasn't really resting. It was more "ride a bit less hard". With sand, ramps and a pump track there is not much time to recover anyway.
 
