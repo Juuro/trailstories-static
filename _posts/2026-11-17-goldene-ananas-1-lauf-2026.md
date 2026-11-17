@@ -47,7 +47,11 @@ The laps on the timed segment (1.24 km, 45 hm), in the order Strava lists them:
 
 The slowest lap is the one with the lowest heart rate, which fits the story of the unclear course in the beginning. Laps 2 to 5 are all within seven seconds of each other.
 
-I don't know my result yet. As soon as the results are out I'll update this post.
+## The result
+
+The results are out: I finished 20th, one lap down on the winner (51:25 on the clock, 7 laps against 8 for the front group). 38 riders got a time in the men's ranking, so that is right in the middle of the field, and it fits my feeling of passing about as many people as passed me. The winner of the day needed 47:49 for his 8 laps.
+
+With the 14 points from this race and the 15 from the Prolog I'm now 16th of 58 in the overall ranking, with 29 points. The goal for the series is a top 4 finish. Fourth place is currently at 46 points, so 17 points are missing. With three more rounds to go (plus the HPAF Intergalactics, which has its own column in the table), that is possible. 🙂
 
 ## What went wrong
 

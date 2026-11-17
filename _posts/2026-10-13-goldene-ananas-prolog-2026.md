@@ -63,7 +63,7 @@ What I like more is the consistency. Ten of my twelve laps on the timed lap segm
 
 Also interesting: an average heart rate of 171 means that the "rest on the rest of the course" part wasn't really resting. It was more "ride a bit less hard". With sand, ramps and a pump track there is not much time to recover anyway.
 
-The results are not published yet, so I have no idea where I finished. I'll update this post as soon as they are out.
+Update: the results are out. I finished 19th with 12 laps, one lap behind the front group that did 13. That was worth 15 points for the series standings.
 
 ## What did I learn
 
